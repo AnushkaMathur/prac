@@ -1,1 +1,1 @@
-print("hello")
+uuuprint("hello")
