@@ -1,2 +1,1 @@
-
-o'kl;print("hello")
+print("hello")
